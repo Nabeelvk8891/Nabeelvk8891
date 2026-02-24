@@ -38,8 +38,7 @@ Passionate about writing clean, maintainable code and solving real-world problem
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelvk8891&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelvk8891&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/nabeelvk8891/nabeelvk8891/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
