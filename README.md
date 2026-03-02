@@ -49,7 +49,7 @@ Passionate about writing clean, maintainable code and solving real-world problem
 https://www.linkedin.com/in/muhammed-nabeel-vk/
 
 **Portfolio**  
-https://nabeelvk.vercel.com  
+https://nabeelvk.vercel.app/
 
 **Resume**  
 https://drive.google.com/file/d/1nz7ZeVXmTRVHMmSO7Khi-GHCGztDhhuH/view?usp=sharing  
